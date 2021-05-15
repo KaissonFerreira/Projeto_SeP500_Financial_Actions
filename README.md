@@ -1,4 +1,4 @@
-<img src="Finance.png" alt="Mercado financeiro">
+<img src="Finance1.png" alt="Mercado financeiro">
 
 # **S&P 500 - (banco de dados retirados do Kaggle)**
 https://www.kaggle.com/paytonfisher/sp-500-companies-with-financial-information
