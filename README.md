@@ -1,13 +1,12 @@
 <img src="Finance1.png" alt="Mercado financeiro">
 
-# **PROJETO EM CONSTRUÇÃO**
-
 ---
 
 # **S&P 500 - (banco de dados retirados do Kaggle)**
 https://www.kaggle.com/paytonfisher/sp-500-companies-with-financial-information
 
-
+# **Link da Documentação:**
+https://colab.research.google.com/github/KaissonFerreira/Projeto_SeP500_Financial_Actions/blob/main/jupyter_notebook/project_S%26P500.ipynb
 ---
 
 ## **Contexto de negócio**
@@ -28,4 +27,14 @@ https://www.kaggle.com/paytonfisher/sp-500-companies-with-financial-information
 dados do projetos estão inseridos nessa categoria)**.
 
 * **Fundamentos qualitativos**: São fatores internos e externos que podem contribuir com a rentabilidade e crescimento da empresa, favorencendo seus ganhos financeiros, mas que também podem levar uma empresa ao prejuízo, e consequentemente, aos acionistas.
+
+## **VISUALIZAÇÃO**
+Para uma melhor visualização dos gráficos, se faz necessário abrir o notebook pelo link da documentação!
+
+## **FERRAMENTAS** 
+
+* Python
+* Pandas
+* Plotly
+
 
