@@ -9,33 +9,36 @@ https://bit.ly/3umqMVH
 ## **Link da Documentação:**
 https://bit.ly/2Rz0TEK
 ---
+# **Passo a passo desse projeto de dados** :
 
-## **Contexto de negócio**
+1.   Conhecer o banco de dados
+2.   Entendimento sobre a análise financeira no mercado de ações
+3.   Entendimento sobre os principais indicadores financeiros
+4.   Adoção de estratégias para geração de insights
+5.   Extração/Obtenção de dados
+6.   Ajuste de dados (tratamento/limpeza)
+7.   Filtragem dos dados por setor
+8.   Análise exploratória
+9.   Interpretação dos resultados (Conclusão)
 
 
 ---
 
+Hoje vou apresentar para vocês um projeto de **Insights** relacionado ao mercado de ações, espero que gostem e consigam aproveitar algumas das informações que estão nesse projeto.
 
-  O S&P 500 é um índice ponderado por capitalização das **500 maiores empresas de capital aberto** dos Estados Unidos. Esse índice é útil para estudar porque geralmente reflete a saúde de todo o mercado de ações dos Estados Unidos. 
+Quero que saibam que esse é um projeto pessoal, que faz parte de alguns dos resultados do meu desenvolvimento de estudos em Data Science, conciliando ferramentas de análise de dados (como a linguagem de programação Python e algumas de suas bibliotecas) com o conhecimento adquirido em análise financeira. Então, o intuito de compartilhamento desse projeto é meramente educacional. 
 
-  No banco de dados proposto, podemos encontrar alguns dos principais indicadores para investir em uma empresa. Assim, um dos objetivos desse projeto é **analisar as empresas que possuem maiores chances de valorização em suas ações** dentro do S&P500. Entretanto, vale ressaltar que por si só, esses indicadores não são suficientes para ter um alto grau de confiabilidade a longo prazo, mas é possível retirar alguns insight que possam **auxiliar** na tomada de decisão do investidor, para assim escolher em qual ação investir.
+---
+## **OBJETIVOS**
 
-  Para analisar uma determinada ação de uma empresa e verificar se vale a pena investir nela, há dois métodos de avaliação. O primeiro deles é a **análise fundamentalista**, que tem por objetivo obter lucros no investimento a médio e longo prazo, e a **análise técnica**, que tem por objetivo obter ganhos financeiros a curto prazo, e, que de modo simplório, esse tipo de análise tem como foco os padrões e movimentações das ações por meio de gráficos.
-
-  Esse projeto aborda uma análise fundamentalista, mediante aos tipos de dados oferecidos. Esse tipo de análise consiste em fundamentos quantitativos e qualitativos, sendo eles:
-
-* **Fundamentos quantitativos**: São aqueles que são medidos em números **(os 
-dados do projetos estão inseridos nessa categoria)**.
-
-* **Fundamentos qualitativos**: São fatores internos e externos que podem contribuir com a rentabilidade e crescimento da empresa, favorencendo seus ganhos financeiros, mas que também podem levar uma empresa ao prejuízo, e consequentemente, aos acionistas.
-
-## **VISUALIZAÇÃO**
-Para uma melhor visualização dos gráficos, se faz necessário abrir o notebook pelo link da documentação!
+* Escolher ações que tenham maiores chances de valorizar ao longo do tempo e que tenha o menor preço possível.
+---
 
 ## **FERRAMENTAS** 
 
 * Python
-* Pandas
-* Plotly
+* Matplotlib
+* Seaborn
+
 
 
