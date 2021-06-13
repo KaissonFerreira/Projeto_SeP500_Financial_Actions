@@ -1,4 +1,4 @@
-<img src="kaissonferreira(3).png" alt="Mercado financeiro">
+<img src="kaissonferreira (3).png" alt="Mercado financeiro">
 
 ---
 
