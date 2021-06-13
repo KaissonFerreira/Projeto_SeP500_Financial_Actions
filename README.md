@@ -1,20 +1,23 @@
 <img src="kaissonferreira (3).png" alt="Mercado financeiro">
 
+
+# **Análise fundamentalista das principais ações que compõe o índice S&P - PROJETO DE INSIGHTS** :chart_with_upwards_trend:
+---
 ---
 
-# **S&P 500 - (banco de dados retirados do Kaggle)**
+## **S&P 500 - (banco de dados retirados do Kaggle)**
 https://bit.ly/3umqMVH
 
 
 ## **Link da Documentação:**
 https://bit.ly/2Rz0TEK
 ---
-Hoje vou apresentar para vocês um projeto de **Insights** relacionado ao mercado de ações, espero que gostem e consigam aproveitar algumas das informações que estão nesse projeto.
+Hoje vou apresentar para vocês um **projeto de Insights** relacionado ao mercado de ações, espero que gostem e consigam aproveitar algumas das informações que estão nesse projeto.
 
-Quero que saibam que esse é um projeto pessoal, que faz parte de alguns dos resultados do meu desenvolvimento de estudos em Data Science, conciliando ferramentas de análise de dados (como a linguagem de programação Python e algumas de suas bibliotecas) com o conhecimento adquirido em análise financeira. Então, o intuito de compartilhamento desse projeto é meramente educacional. 
+Quero que saibam que esse é um projeto pessoal, que faz parte de alguns dos resultados do meu desenvolvimento de estudos em Data Science, conciliando ferramentas de análise de dados (como a linguagem de programação Python e algumas de suas bibliotecas) com o conhecimento adquirido em análise financeira. Então, o intuito de compartilhamento desse projeto é **meramente educacional**. 
 
 ---
-# **Passo a passo desse projeto de dados** :
+## :notebook: :pencil2: **Passo a passo desse projeto de análise de dados** :
 
 1.   Conhecer o banco de dados
 2.   Entendimento sobre a análise financeira no mercado de ações
@@ -30,7 +33,7 @@ Quero que saibam que esse é um projeto pessoal, que faz parte de alguns dos res
 ---
 
 
-## **INTRODUÇÃO**
+## :memo: **INTRODUÇÃO**
 
 
 ---
@@ -49,12 +52,12 @@ Pelo tipo de indicadores fornecidos na base de dados, foi feita a escolha da an�
 
 
 ---
-## **OBJETIVOS**
+## :dart: **OBJETIVOS**
 
 * Escolher ações que tenham maiores chances de valorizar ao longo do tempo e que tenha o menor preço possível.
 ---
 
-## **FERRAMENTAS** 
+## :hammer: **FERRAMENTAS** 
 
 * Python
 * Matplotlib
