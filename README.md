@@ -35,17 +35,17 @@ Quero que saibam que esse é um projeto pessoal, que faz parte de alguns dos res
 
 ---
 
-  O S&P 500 é um índice ponderado por capitalização das 500 maiores empresas de capital aberto dos EUA. Esse índice é útil para estudar porque geralmente reflete a saúde do mercado de ações dos Estados Unidos.
+  O S&P 500 é um índice ponderado por capitalização das **500 maiores empresas de capital aberto dos EUA**. Esse índice é útil para estudar porque geralmente reflete a saúde do mercado de ações dos Estados Unidos.
 
-No banco de dados proposto, podemos encontrar alguns dos principais indicadores para investir em uma empresa. Assim, o principal objetivo desse projeto é analisar as empresas que podem possuir maiores chances de valorização em suas ações com os menores preços possíveis. Vale ressaltar que, por si só, esses indicadores não são suficientes para um alto grau de confiabilidade a longo prazo, mas é possível retirar alguns insights que possam auxiliar na tomada de decisão do investidor para escolher as melhores ações, e incluir nessas ações uma análise mais detalhada.
+No banco de dados proposto, podemos encontrar alguns dos principais indicadores para investir em uma empresa. Assim, o principal objetivo desse projeto é **analisar as empresas que podem possuir maiores chances de valorização em suas ações com os menores preços possíveis**. Vale ressaltar que, por si só, esses indicadores não são suficientes para um alto grau de confiabilidade a longo prazo, mas é possível retirar alguns insights que possam auxiliar na tomada de decisão do investidor para escolher as melhores ações, e incluir nessas ações uma análise mais detalhada.
 
-Há dois métodos para avaliar se uma determinada ação é lucrativa. O primeiro deles é a análise fundamentalista, que tem por objetivo obter lucros em um investimento a médio e longo prazo. E o segundo, é a análise técnica (ou grafista) que tem por objetivo obter ganhos financeiros a curto prazo, uma vez que o foco desse tipo de análise são os padrões e movimentações das ações por meio de gráficos.
+Há dois métodos para avaliar se uma determinada ação é lucrativa. O primeiro deles é a **análise fundamentalista**, que tem por objetivo obter lucros em um investimento a médio e longo prazo. E o segundo, é a **análise técnica (ou grafista)** que tem por objetivo obter ganhos financeiros a curto prazo, uma vez que o foco desse tipo de análise são os padrões e movimentações das ações por meio de gráficos.
 
 Pelo tipo de indicadores fornecidos na base de dados, foi feita a escolha da análise fundamentalista para esse projeto. Vale ressaltar que esse tipo de análise consiste em fundamentos quantitativos e qualitativos (por causa disso, essa análise é tão complexa), sendo eles:
 
-Fundamentos Quantitativos: São aqueles que são medidos em números que podem ser verificados por meio de balanços e/ou balancetes, no qual geralmente se encaixam nos tipos de dados quantitativos contínuos, alguns exemplos são o fluxo de caixa, DRE (Demonstração do Resultado do Exercício), indicadores de Valuation (os dados do projeto estão incluídos nessa categoria) e etc.
+**Fundamentos Quantitativos:** São aqueles que são medidos em números que podem ser verificados por meio de balanços e/ou balancetes, no qual geralmente se encaixam nos tipos de dados quantitativos contínuos, alguns exemplos são o fluxo de caixa, DRE (Demonstração do Resultado do Exercício), **indicadores de Valuation** (os dados do projeto estão incluídos nessa categoria) e etc.
 
-Fundamentos Qualitativos: São os fatores internos e externos à empresa, e que são de difícil mensuração em valores quanto a sua contribuição para a rentabilidade e crescimento da empresa. (ex: Macroeconomia, gestão da empresa, situação do mercado, visibilidade da empresa e etc.)
+**Fundamentos Qualitativos:** São os fatores internos e externos à empresa, e que são de difícil mensuração em valores quanto a sua contribuição para a rentabilidade e crescimento da empresa. (ex: Macroeconomia, gestão da empresa, situação do mercado, visibilidade da empresa e etc.)
 
 
 ---
